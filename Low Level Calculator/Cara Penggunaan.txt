@@ -1,0 +1,16 @@
+Cara penggunaan program secara umum sama hanya dengan memasukan persamaan sederhana
+seperti contoh 
+1 + 2 - 3 * 4 ^ 5 / 6
+persamaan boleh menggunakan spasi ataupun tidak karena pada akhirnya akan diabaikan oleh program.
+
+Pada program ini diimplementasikan 5 operator(4 wajib + 1 bonus(pangkat)) yaitu:
+1. Penjumlahan
+dilakukan dengan operator +
+2. Pengurangan
+dilakukan dengan operator -
+3. Perkalian
+dilakukan dengan operator *
+4. Pembagian
+dilakukan dengan operator /
+5. Perpangkatan
+dilakukan dengan operator ^
